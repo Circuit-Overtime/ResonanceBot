@@ -1,12 +1,9 @@
 # Music-bot
 
-A complete code to download for a music bot 🎧
+A complete code for a discord music bot 🎧
 
 Looking for a code for a music bot? This fully open-source code is made for your project!
 
-If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/5cGSYV8ZZj).
-
-*If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
 
 ### ⚡ Configuration
 
@@ -15,10 +12,10 @@ Open the configuration file located in the main folder `config.js`.
 ```js
 module.exports = {
     app: {
-        token: 'XXX',
-        playing: 'by Zerio ❤️',
+        token: 'bot token goes here',
+        playing: 'by Resonance ❤️',
         global: true,
-        guild: 'xxx',
+        guild: 'your server ID goes here',
         ExtraMessages: false,
         loopMessage: false,
 },
@@ -82,23 +79,15 @@ WARNING: You MUST use Node.js version under 18.17, otherwise, you will encounter
 
 [yarn](https://yarnpkg.com/getting-started/usage) for package management
 
-Without forgetting of course the code editor, we recommend [visual studio code](https://code.visualstudio.com/) 
 
 Now in your terminal run the following commands assuming you are in the same directory as the project.
 
-`yarn install` (or `npm install` **not recommended** as it might not work)
-
-`node .` (or `node index.js`)
+`npm install`
+ and then run the command 
+`node main.js`)
 
 and Done, your bot should be running!
 
-Realized with ❤️ by [ZerioDev](https://github.com/ZerioDev).
+Realized with ❤️ by [Ayushman](https://github.com/circuit-overtime).
 
 Please do not withdraw the license and keep the credits on this project. 
-
-To have full access to the project and to be able to withdraw the credits a small donation is accepted. 
-
-### 📝 ToDo 
-
-
--  [ ] Vote to skip command https://github.com/ZerioDev/Music-bot/issues/187
