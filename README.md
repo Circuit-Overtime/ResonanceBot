@@ -84,7 +84,7 @@ Now in your terminal run the following commands assuming you are in the same dir
 
 `npm install`
  and then run the command 
-`node main.js`)
+`node main.js`
 
 and Done, your bot should be running!
 
