@@ -1,6 +1,6 @@
 const { EmbedBuilder, InteractionType } = require('discord.js');
 const { useQueue } = require('discord-player');
-const CHANNELS = ['1213901814106296330']; // Channel ID of the channel where you want to enable the slash commands
+const CHANNELS = ['the channel ID for the bot goes here!']; // Channel ID of the channel where you want to enable the slash commands
 module.exports = async (client, inter) => {
     await inter.deferReply()
     if (inter.type === InteractionType.ApplicationCommand) {
