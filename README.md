@@ -1,7 +1,5 @@
 # Music-bot
 
-A complete code for a discord music bot 🎧
-
 Looking for a code for a music bot? This fully open-source code is made for your project!
 
 
@@ -86,8 +84,9 @@ Now in your terminal run the following commands assuming you are in the same dir
  and then run the command 
 `node main.js`
 
+Wait for the Message --
+``` Let's Play Some Music ```
+in the console....
 and Done, your bot should be running!
-
-Realized with ❤️ by [Ayushman](https://github.com/circuit-overtime).
 
 Please do not withdraw the license and keep the credits on this project. 
